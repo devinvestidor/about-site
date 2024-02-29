@@ -1193,6 +1193,22 @@ section {
   transition: 0.3s;
 }
 
+
+.testimonial-item a {
+  font-size: 13px;
+  display: inline-block;
+  background: #FFC800;
+  color: #fff;
+  line-height: 1;
+  padding: 4px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  transition: 0.3s;
+}
+
 #footer .social-links a:hover {
   background: black;
   color: #fff;
